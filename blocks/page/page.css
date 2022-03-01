@@ -3,6 +3,8 @@
 
   margin: 0 auto;
   padding-top: 28px;
+  padding-bottom: 28px;
+  box-sizing: border-box;
 
   font-family: Inter, sans-serif;
   color: #fff;
