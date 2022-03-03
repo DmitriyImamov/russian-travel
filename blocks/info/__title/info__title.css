@@ -7,7 +7,7 @@
 
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 720px) {
   .info__title {
     font-size: 32px;
   }

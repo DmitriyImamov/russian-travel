@@ -1,21 +1,22 @@
-.info {
+.section-places {
+  margin: 0;
   padding: 92px 148px 0;
 }
 
 @media screen and (max-width: 1024px) {
-  .info {
+  .section-places {
     padding: 92px 48px 0;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .info {
+  .section-places {
     padding: 88px 24px 0;
   }
 }
 
 @media screen and (max-width: 720px) {
-  .info {
+  .section-places {
     padding: 64px 16px 0;
   }
 }

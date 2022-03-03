@@ -1,21 +1,15 @@
-.info {
-  padding: 92px 148px 0;
-}
-
-@media screen and (max-width: 1024px) {
-  .info {
-    padding: 92px 48px 0;
-  }
+.photo-section {
+  padding: 92px 48px 0;
 }
 
 @media screen and (max-width: 768px) {
-  .info {
+  .photo-section {
     padding: 88px 24px 0;
   }
 }
 
 @media screen and (max-width: 720px) {
-  .info {
+  .photo-section {
     padding: 64px 16px 0;
   }
 }
