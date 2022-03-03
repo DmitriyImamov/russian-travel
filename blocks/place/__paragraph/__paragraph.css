@@ -1,7 +1,7 @@
 .place__paragraph {
   margin: 0;
-   font-size: 18px;
-   line-height: 1.38;
+  font-size: 18px;
+  line-height: 1.6;
 }
 
 .place__paragraph:not(:first-child) {
