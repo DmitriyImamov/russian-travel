@@ -6,4 +6,11 @@
   font-size: 18px;
   line-height: 1.19;
   color: #fff;
+  transition: opacity .3s linear;
 }
+
+.place__link:hover {
+  opacity: .8;
+}
+
+

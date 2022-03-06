@@ -1,15 +1,21 @@
 .photo-section {
-  padding: 92px 48px 0;
+  padding-top: 92px;
+  padding-left: 48px;
+  padding-right: 48px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .photo-section {
-    padding: 88px 24px 0;
+    padding-top: 88px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 }
 
 @media screen and (max-width: 720px) {
   .photo-section {
-    padding: 64px 16px 0;
+    padding-top: 64px;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }
