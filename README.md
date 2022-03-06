@@ -23,3 +23,11 @@
 
 * Оптимизировать адаптив.
 * Применить JavaScript.
+
+----
+
+## Ссылки
+
+* [Ссылка на проект](https://github.com/DmitriyImamov/russian-travel.git)
+
+* [Ссылка на макет](https://clck.ru/dXaPL)
