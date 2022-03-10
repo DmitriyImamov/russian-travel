@@ -1,7 +1,7 @@
 .place__paragraph {
   margin: 0;
   font-size: 18px;
-  line-height: 1.6;
+  line-height: 1.61;
 }
 
 .place__paragraph:first-of-type {
@@ -15,5 +15,16 @@
 
   .place__paragraph:not(:first-child) {
     margin-top: 25px;
+  }
+
+  .place__paragraph:first-of-type {
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (max-width:767px) {
+  .place__paragraph {
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }

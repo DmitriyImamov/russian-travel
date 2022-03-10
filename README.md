@@ -28,6 +28,6 @@
 
 ## Ссылки
 
-* [Ссылка на проект](https://github.com/DmitriyImamov/russian-travel.git)
+* [Ссылка на проект](https://dmitriyimamov.github.io/russian-travel/index.html)
 
 * [Ссылка на макет](https://clck.ru/dXaPL)
